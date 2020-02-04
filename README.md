@@ -762,7 +762,7 @@ print(base64.b85decode('W^7?+dt_x}Z)9a(Wo~0{WMyA=Wpa66W_50T'))
 
 ### pwn1
 
-![p1](./imgs/pwn_1.jpg)
+![p1](./imgs/pwn_1.JPG)
 
 
 - 主函数我们可以看到当` <dword_6010C0 != 1717986918> `
@@ -770,7 +770,7 @@ print(base64.b85decode('W^7?+dt_x}Z)9a(Wo~0{WMyA=Wpa66W_50T'))
 
 
 
-![p2](./imgs/pwn_2.jpg)
+![p2](./imgs/pwn_2.JPG)
 
 
 
@@ -778,7 +778,7 @@ print(base64.b85decode('W^7?+dt_x}Z)9a(Wo~0{WMyA=Wpa66W_50T'))
 
 
 
-![p3](./imgs/pwn_3.jpg)
+![p3](./imgs/pwn_3.JPG)
 
 
 - 会执行` </bin/sh> `
@@ -787,7 +787,7 @@ print(base64.b85decode('W^7?+dt_x}Z)9a(Wo~0{WMyA=Wpa66W_50T'))
 
 
 
-![p4](./imgs/pwn_4.jpg)
+![p4](./imgs/pwn_4.JPG)
 
 
 
@@ -795,11 +795,11 @@ print(base64.b85decode('W^7?+dt_x}Z)9a(Wo~0{WMyA=Wpa66W_50T'))
 
 
 
-![p5](./imgs/pwn_5.jpg)
+![p5](./imgs/pwn_5.JPG)
 
 - pwndbg来checksec一下
 
-![p6](./imgs/pwn_6.jpg)
+![p6](./imgs/pwn_6.JPG)
 
 
 - 只有nx 
